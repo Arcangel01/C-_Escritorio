@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+  <Servidor>DESKTOP-NOR0BNM\SQLEXPRESS</Servidor>
+  <BaseDatos>BD_Persona</BaseDatos>
+  <Usuario></Usuario>
+  <Password></Password>
+</Conexion>

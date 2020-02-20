@@ -1,0 +1,13 @@
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\Libreria_Logica_Negocio.dll
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\Libreria_Logica_Negocio.pdb
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibConexionBD.dll
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibLlenarGrids.dll
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibParametro.dll
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibConexionBD.pdb
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibLlenarGrids.pdb
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\bin\Debug\LibParametro.pdb
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\obj\Debug\Libreria_Logica_Negocio.csprojAssemblyReference.cache
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\obj\Debug\Libreria_Logica_Negocio.csproj.CoreCompileInputs.cache
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\obj\Debug\Libreria_Logica_Negocio.csproj.CopyComplete
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\obj\Debug\Libreria_Logica_Negocio.dll
+D:\Desktop\C# Final\Libreria_Logica_Negocio\Libreria_Logica_Negocio\obj\Debug\Libreria_Logica_Negocio.pdb
